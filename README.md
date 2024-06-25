@@ -20,7 +20,13 @@ If you really need to talk to me you can use my social medias:
 
 ## My profile Stats:
 
-![niicfsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicfsz&show_icons=true&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niicfsz&layout=compact&theme=transparent)
+[niicfsz's General informations](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark)
+
+![niicfsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicfsz&show_icons=true&theme=transparent) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niicfsz&layout=compact&theme=transparent)
+
+
 
 
 
