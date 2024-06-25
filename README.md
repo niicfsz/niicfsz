@@ -1,4 +1,5 @@
-# Hello there!
+# ![fontbolt](https://github.com/niicfsz/niicfsz/assets/167145187/ce25e859-9b81-467a-82b0-420d86240b8a)
+
 
 ![miguel-o'hara](https://github.com/niicfsz/niicfsz/assets/167145187/f49b2e1b-eb69-43d4-8797-df58b30e8c66)
 
@@ -26,7 +27,10 @@ If you really need to talk to me you can use my social medias:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niicfsz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niicfsz&theme=github_dark&utcOffset=8) 
 
+## Ending:
+Thank you very much for reading until the end. If you are interested in my work, call me. See you soon! Goodbye!
 
+![200](https://github.com/niicfsz/niicfsz/assets/167145187/efeecef0-9b86-4f54-93c4-0b9dce90d009)
 
 
 
