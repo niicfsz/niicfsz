@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there!
 
-<!--
-**niicfsz/niicfsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![miguel-o'hara](https://github.com/niicfsz/niicfsz/assets/167145187/f49b2e1b-eb69-43d4-8797-df58b30e8c66)
 
-Here are some ideas to get you started:
+# Greetings and personal information.
+Hi! Welcome to my profile, it's a pleasure to meet you!
+- My name is Nícolas and I'm 18 years old;
+- I was born in Goiânia-GO, Brazil;
+- I'm currently studying at Universidade Federal de Jataí;
+- Learning about C language;
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
