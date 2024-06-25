@@ -18,6 +18,8 @@ If you really need to talk to me you can use my social medias:
 <a href="https://youtube.com/@niicfsz?si=FLc6wWX5UIZSUcMT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l" height="30" width="40" /></a>
 <a href="https://discord.gg/niicfsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l" height="30" width="40" /></a>
 
+## My profile Stats:
+[niicfsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicfsz)](https://github.com/niicfsz/github-readme-stats)
 
 
 
