@@ -4,10 +4,10 @@
 
 ## Greetings and personal information.
 Hi! Welcome to my profile, it's a pleasure to meet you!
-- My name is Nícolas and I'm 18 years old;
-- I was born in Goiânia-GO, Brazil;
-- I'm currently studying at Universidade Federal de Jataí;
-- Learning about C language;
+- 👦🏾 My name is Nícolas and I'm 18 years old;
+- 🇧🇷 I was born in Goiânia-GO, Brazil;
+- 🏫 I'm currently studying at Universidade Federal de Jataí;
+- 🖥️ Learning about C language;
 
 ## How to contact me?
 If you really need to talk to me you can use my social medias:
