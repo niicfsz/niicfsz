@@ -23,7 +23,7 @@ If you really need to talk to me you can use my social medias:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark)
 
-![niicfsz's Stats](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=git_hubdark&show_icons=true&hide_border=false&count_private=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=git_hubdark)
+![](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=git_hubdark&show_icons=true&hide_border=false&count_private=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=git_hubdark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niicfsz&theme=git_hubdark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niicfsz&theme=git_hubdark&utcOffset=8)
 
