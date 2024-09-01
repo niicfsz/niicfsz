@@ -25,7 +25,7 @@ If you really need to talk to me you can use my social medias:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niicfsz&theme=github_dark&utcOffset=8)
 
-![](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=niicfsz&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=niicfsz&theme=github_dark&hide_border=true)
 
 ## Ending:
 Thank you very much for reading until the end. If you are interested in my work, call me. See you soon! Goodbye!
