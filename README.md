@@ -21,9 +21,9 @@ If you really need to talk to me you can use my social medias:
 
 ## My profile Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![niicfsz's Stats](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Ending:
 Thank you very much for reading until the end. If you are interested in my work, call me. See you soon! Goodbye!
