@@ -21,9 +21,9 @@ If you really need to talk to me you can use my social medias:
 
 ## My profile Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niicfsz&theme=github_dark) 
+![](https://github-readme-stats.vercel.app/api?username=niicfsz&theme=dark&show_icons=true&hide_border=true&count_private=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niicfsz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niicfsz&theme=github_dark&utcOffset=8) 
 
