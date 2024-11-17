@@ -1,8 +1,5 @@
 # ![fontbolt](https://github.com/niicfsz/niicfsz/assets/167145187/ce25e859-9b81-467a-82b0-420d86240b8a)
 
-
-![miguel-o'hara](https://github.com/niicfsz/niicfsz/assets/167145187/f49b2e1b-eb69-43d4-8797-df58b30e8c66)
-
 ## Greetings and personal information.
 Hi! Welcome to my profile, it's a pleasure to meet you!
 - 👦🏾 My name is Nícolas and I'm 18 years old;
