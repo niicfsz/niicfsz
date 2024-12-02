@@ -53,7 +53,7 @@
 <h2>Ending</h2>
 <p>Thank you very much for reading until the end. If you are interested in my work, call me. See you soon! Goodbye!</p>
 
-![200](https://github.com/niicfsz/niicfsz/assets/167145187/efeecef0-9b86-4f54-93c4-0b9dce90d009)
+![giphy](https://github.com/user-attachments/assets/ac4c80b6-5a09-40e6-99a7-c5612701beba)
 </div>
 
 
