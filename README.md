@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/94e0f11f-e160-4244-8728-508d3d9f7865">
   <ul>
     <li>Hi! Welcome to my profile, it's a pleasure to meet you!</li>
-    <li>👨🏾‍🦱 My name is Nícolas and I'm 18 years old;</li>
+    <li>👨🏾‍🦱 My name is Nícolas and I'm 19 years old;</li>
     <li>🇧🇷 I was born in Goiânia-GO, Brazil;</li>
     <li>🎓 I'm currently studying at Universidade Federal de Jataí;</li>
     <li>💻 Learning about C language;</li>
