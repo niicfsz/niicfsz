@@ -26,7 +26,7 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/e8416184-36c3-4614-b80a-3332301d9527" alt="Image">
     <ul>
-        <li><a href="https://github.com/niicfsz/PFD-AP2">CyberCow</a></li>
+        <li><a href="https://github.com/niicfsz/CyberCow/tree/main">CyberCow</a></li>
       <li><a href="https://github.com/Cows-In-Space/Cows-In-Space">Cows in Space</a></li>
     </ul>
   <h2></h2>
