@@ -40,11 +40,9 @@
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niicfsz&theme=github_dark" alt="Profile Details" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niicfsz&theme=github_dark" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niicfsz&theme=github_dark&utcOffset=8" alt="Productive Time" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niicfsz&theme=github_dark&hide_border=true" alt="GitHub Streak Stats" />
 <h2></h2>
 </div>
 
