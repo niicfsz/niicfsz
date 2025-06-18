@@ -6,7 +6,7 @@
     <li>👨🏾‍🦱 My name is Nícolas and I'm 19 years old;</li>
     <li>🇧🇷 I was born in Goiânia-GO, Brazil;</li>
     <li>🎓 I'm currently studying at Universidade Federal de Jataí;</li>
-    <li>💻 Learning about C language;</li>
+    <li>💻 Learning about Java;</li>
   </ul>
   <h2></h2>
 </div>
