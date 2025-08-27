@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=790b11" />
 
+![spiderman-symbol-spider-man-across-the-spiderverse](https://github.com/user-attachments/assets/5f88c795-b41a-49ac-856e-9e4e7e915f70)
+
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Comic+Relief&weight=100&size=35&pause=1000&color=F74A4A&width=435&lines=Welcome+to+my+profile!%F0%9F%91%8B;You+can+call+me+Nic!%F0%9F%95%B7%EF%B8%8F;What's+up!%F0%9F%95%B8%EF%B8%8F%F0%9F%A4%9F" alt="Typing SVG" />
   </a>
