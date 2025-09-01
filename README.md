@@ -53,8 +53,6 @@
   <img src="https://github.com/user-attachments/assets/ba912db8-0752-4886-a341-4c063f2abb11" alt="Image">
 </div>
 
-<h2></h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
