@@ -55,6 +55,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicfsz&theme=github_dark&hide_border=true" />
+
 </div>
 
 <h2></h2>
