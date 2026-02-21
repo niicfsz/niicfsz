@@ -53,14 +53,21 @@
   <img src="https://github.com/user-attachments/assets/ba912db8-0752-4886-a341-4c063f2abb11" alt="Image">
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niicfsz&bg_color=0d1117&color=db2929&line=510c13&point=db2929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h2></h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niicfsz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicfsz&theme=github_dark&hide_border=true" />
+  <img width="259" height="64" alt="fontbolt (3)" src="https://github.com/user-attachments/assets/9f212f98-7391-4ef2-9143-287895e07587" />
+
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 
 </div>
 
 <h2></h2>
-
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3ab1c4fe-6a35-4fe2-9625-c96e4e60deeb" alt="Image">
