@@ -61,11 +61,23 @@
 <div align="center">
   <img width="259" height="64" alt="fontbolt (3)" src="https://github.com/user-attachments/assets/9f212f98-7391-4ef2-9143-287895e07587" />
 
-  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-
-</div>
+  <p style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         width="40" height="40"
+         style="background-color: #0d1117; padding: 4px; border-radius: 6px;"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         width="40" height="40"
+         style="background-color: #0d1117; padding: 4px; border-radius: 6px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         width="40" height="40"
+         style="background-color: #0d1117; padding: 4px; border-radius: 6px;"/>
+  </a>
+</p>
 
 <h2></h2>
 
