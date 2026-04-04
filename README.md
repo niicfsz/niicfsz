@@ -16,7 +16,7 @@
 
   <p>👨🏾 - I’m currently studying Computer Science at Universidade Federal de Jataí;</p>
   <p>💻 - I’m going into my third year of college;</p>
-  <p>📚 - At the moment, I’m learning about C++;</p>
+  <p>📚 - At the moment, I’m refining my SQL knowledge;</p>
   <p>🖤 - I love talking about superheroes and all kinds of games;</p>
 </div>
 
