@@ -27,7 +27,7 @@
 
   <p>If you need to reach me, you can use my social media:</p>
   
-  <a href="https://www.instagram.com/niicfsz?igsh=MXNlOWF3Y2l1cGI3OQ==" target="_blank">
+  <a href="https://www.instagram.com/nicolas.fsz?igsh=MXNlOWF3Y2l1cGI3OQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:niicfsz@gmail.com">
