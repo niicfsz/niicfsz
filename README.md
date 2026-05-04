@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e8416184-36c3-4614-b80a-3332301d9527" width="250">
   
-  <br><br>
+  <p>
   
   <a href="https://github.com/niicfsz/CyberCow/tree/main">
     <img src="https://github.com/user-attachments/assets/03bcf158-f2c0-4065-a4ee-4d3af419ccb9" width="500">
