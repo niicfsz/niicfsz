@@ -12,7 +12,7 @@
 <h2></h2>
 
 <div align="center">
-  <img width="279" height="64" alt="fontbolt" src="https://github.com/user-attachments/assets/8afbdd6f-4a37-4ef1-a3d7-efcbc5ed33f8" />
+  <img src="https://github.com/user-attachments/assets/8afbdd6f-4a37-4ef1-a3d7-efcbc5ed33f8" alt="Image" />
 
   <p>👨🏾 - I’m currently studying Computer Science at Universidade Federal de Jataí;</p>
   <p>💻 - I’m going into my third year of college;</p>
@@ -52,7 +52,7 @@
 <h2></h2>
 
 <div align="center">
-  <img width="259" height="64" alt="Hard Skills" src="https://github.com/user-attachments/assets/9f212f98-7391-4ef2-9143-287895e07587" />
+  <img src="https://github.com/user-attachments/assets/9f212f98-7391-4ef2-9143-287895e07587" alt="Image"/>
 
   <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
