@@ -37,7 +37,6 @@
   <img src="https://github.com/user-attachments/assets/e8416184-36c3-4614-b80a-3332301d9527" alt="Image">
   
   <p><a href="https://github.com/niicfsz/CyberCow/tree/main">CyberCow</a></p>
-  <p><a href="https://github.com/Cows-In-Space/Cows-In-Space">Cows in Space</a></p>
 </div>
 
 <h2></h2>
