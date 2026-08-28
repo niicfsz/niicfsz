@@ -46,15 +46,6 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba912db8-0752-4886-a341-4c063f2abb11" alt="Image">
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niicfsz&bg_color=0d1117&color=db2929&line=510c13&point=db2929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<h2></h2>
-
-<div align="center">
   <img src="https://github.com/user-attachments/assets/9f212f98-7391-4ef2-9143-287895e07587" alt="Image"/>
 
   <p align="center">
